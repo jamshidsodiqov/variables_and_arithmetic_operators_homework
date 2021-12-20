@@ -7,3 +7,8 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a*b:c
+a = 7
+b = 3
+c = 5
+answer = a*b//c
+print(answer)

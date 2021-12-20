@@ -4,4 +4,8 @@
 
 # Create a variable called 'answer'.
 
-# find the difference of a and b then assign to "answer"
+# find the difference of a and b then assign to "answer"a = 3
+a = 6
+b = 2
+answer = a-b
+print(answer)
