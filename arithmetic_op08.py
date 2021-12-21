@@ -7,7 +7,7 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a*b:c
-a = 7
-b = 3
-c = 5
+a = 3
+b = 4
+c = 2
 answer = a*b//c
